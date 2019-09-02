@@ -8,7 +8,7 @@ public class Media {
 		if (media >= 7.0) {
 			System.out.println("APROVADO :)");
 		}else if(media >= 5.0 && media < 7.0) {
-			System.out.println("RECUPERAÇÃO :|");
+			System.out.println("RECUPERAÃ‡ÃƒO :|");
 		}else if(media < 5.0) {
 			System.out.println("REPROVADO :(");
 		}
